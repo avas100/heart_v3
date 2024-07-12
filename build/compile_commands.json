@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build/HeartApp_v3_autogen/include\" -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\HeartApp_v3.dir\\HeartApp_v3_autogen\\mocs_compilation.cpp.obj -c \"C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\build\\HeartApp_v3_autogen\\mocs_compilation.cpp\"",
+  "file": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\build\\HeartApp_v3_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\HeartApp_v3.dir\\HeartApp_v3_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build/HeartApp_v3_autogen/include\" -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\HeartApp_v3.dir\\main.cpp.obj -c \"C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\main.cpp\"",
+  "file": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\main.cpp",
+  "output": "CMakeFiles\\HeartApp_v3.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build/HeartApp_v3_autogen/include\" -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\HeartApp_v3.dir\\mainwindow.cpp.obj -c \"C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\mainwindow.cpp\"",
+  "file": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\mainwindow.cpp",
+  "output": "CMakeFiles\\HeartApp_v3.dir\\mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build/HeartApp_v3_autogen/include\" -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\HeartApp_v3.dir\\paint.cpp.obj -c \"C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\paint.cpp\"",
+  "file": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\paint.cpp",
+  "output": "CMakeFiles\\HeartApp_v3.dir\\paint.cpp.obj"
+},
+{
+  "directory": "C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build/HeartApp_v3_autogen/include\" -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\HeartApp_v3.dir\\paintscene.cpp.obj -c \"C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\paintscene.cpp\"",
+  "file": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\paintscene.cpp",
+  "output": "CMakeFiles\\HeartApp_v3.dir\\paintscene.cpp.obj"
+},
+{
+  "directory": "C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"C:/Users/svetl/OneDrive/Рабочий стол/Новая папка/heart_v3/build/HeartApp_v3_autogen/include\" -isystem C:/msys64/mingw64/include/QtWidgets -isystem C:/msys64/mingw64/include/QtGui -isystem C:/msys64/mingw64/include/QtCore -isystem C:/msys64/mingw64/share/qt5/mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\HeartApp_v3.dir\\splineinterpolation.cpp.obj -c \"C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\splineinterpolation.cpp\"",
+  "file": "C:\\Users\\svetl\\OneDrive\\Рабочий стол\\Новая папка\\heart_v3\\splineinterpolation.cpp",
+  "output": "CMakeFiles\\HeartApp_v3.dir\\splineinterpolation.cpp.obj"
+}
+]
